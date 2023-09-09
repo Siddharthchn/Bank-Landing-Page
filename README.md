@@ -16,7 +16,7 @@
 
 ### Screenshot
 
-![screenshot](https://github.com/Siddharthchn/Bank-Landing-Page/blob/gh-pages/public/img/screenshot.png?raw=true "Ekart home page")
+![screenshot](https://github.com/Siddharthchn/Bank-Landing-Page/blob/gh-pages/src/assets/screenshot.png?raw=true "Ekart home page")
 
 
 
