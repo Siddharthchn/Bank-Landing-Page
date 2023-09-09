@@ -1,57 +1,53 @@
-<!-- PROJECT LOGO -->
-<p align="center">
+# HooBank - Bank Modern App
 
-  <h1 align="center">Hoo Bank</h1>
+This is a landing page for a bank built with React, TailwindCSS and Framer Motion.
 
-  <h3 align="center">
-   A Landing Page of a Bank website()
-  </h3>
- <br />
- 
- ### Click here for live demo   <a href="https://siddharthchn.github.io/Bank-Landing-Page/">HooBank</a>
+## Table of contents
 
-</p>
+- [Overview](#overview)
+  - [Requirements](#requirements)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Getting Started with Create React App](#getting-started-with-create-react-app)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Credits](#credits)
 
-<!-- ABOUT THE PROJECT -->
+## Overview
+
+### Requirements
+
+- Create a landing page with React using a Figma mockup
+- Import data from a JS file
+- Style app with Framer Motion animations
+- Styled & polished
 
 ### Screenshot
 
 ![screenshot](/src/assets/screenshot.png)
 
-This is a landing page for a bank built with React, TailwindCSS and Framer Motion.
+### Links
 
-### Requirements
+- Live Site URL: [@Netlify](https://bank-modern-app-xdelmo.netlify.app/)
+- Solution URL: [@GitHub](https://github.com/xdelmo/bank-modern-app)
 
-- ### Create a landing page with React using a Figma mockup
-- ### Import data from a JS file
-- ### Style app with Framer Motion animations
-- ### Styled & polished
-  
-
-### Built With
-
-- #### Semantic HTML5 markup
-- #### CSS custom properties
-- #### Framer-motion
-- #### React.JS
-- ### TailwindCSS
-- ###  Framer Motion
-
-
-<!-- GETTING STARTED -->
-
-# Getting Started
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## My process
 
-### To run project:-
+### Built with
 
-### `npm start`
-
-### `npm run build`
-
+- Semantic HTML5 markup
+- CSS custom properties
+- React.JS
+- Flexbox
+- TailwindCSS
+- Framer Motion
+- EmailJS
 
 ### Useful resources
 
@@ -69,5 +65,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [StackOverflow](https://stackoverflow.com/questions/71357518/odd-error-on-emailjs-when-trying-to-test-form-550-request-failed) - Odd error on EmailJS when trying to test form 550 Request failed
 - [Jim Raptis](https://medium.muz.li/15-tips-for-better-ui-forms-744febd107f9) - 15 Tips For Better Forms
 
-- Mockup - [Figma](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank)
+## Author
 
+- Website - [Emanuele Del Monte](https://www.emanueledelmonte.it)
+
+## Credits
+
+- Mockup - [Figma](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank)
