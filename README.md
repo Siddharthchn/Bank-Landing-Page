@@ -7,7 +7,7 @@
   This is a landing page for a bank built with React, TailwindCSS and Framer Motion.
   </h3>
  <br />
- ![screenshot](https://github.com/Siddharthchn/Bank-Landing-Page/assets/109435160/18850570-3772-4c4d-9740-ce951832d4a9)
+ 
 
  ### Click here for live demo   <a href="https://siddharthchn.github.io/Bank-Landing-Page/">HooBank</a>
 
@@ -15,7 +15,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-### Screenshot
+## About The Project:-
 
  ![screenshot](https://github.com/Siddharthchn/Bank-Landing-Page/assets/109435160/18850570-3772-4c4d-9740-ce951832d4a9)
 
