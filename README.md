@@ -9,7 +9,7 @@
  <br />
  
 
- ### Click here for live demo   <a href="https://siddharthchn.github.io/Bank-Landing-Page/">HooBank</a>
+ ### Click here for live demo   <a href="https://siddharthchn.github.io/Bank-Landing-Page/" target="_blank">HooBank</a>
 
 </p>
 
