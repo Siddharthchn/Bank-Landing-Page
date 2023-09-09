@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
 
-  <h1 align="center">Hoo Bank</h1>
+  <h1 align="center">Hoo-Bank</h1>
 
   <h3 align="center">
   This is a landing page for a bank built with React, TailwindCSS and Framer Motion.
